@@ -85,7 +85,7 @@ require_once '../db_connect.php';
         <a class="btn btn-outline-danger" href="../login.php">
                 <i class="bi bi-box-arrow-right"></i> Logout
             </a>
-        <!-- <a class="logout-link" href="../login.php">🔒 Logout</a> -->
+        <!-- <a class="logout-link" href="../login.php"> Logout</a> -->
     </div>
 
     <!-- Bootstrap JS (optional) -->
